@@ -1,6 +1,6 @@
 avascript - Web JQuery
 
-This was the preparatory project learning how to manipulate the DOM with jQuery before implementing it into our HolbertonBnB project.
+This was the preparatory project learning how to manipulate the DOM with jQuery.
 Tests heavy_check_mark
 
     tests: Folder of HTML files for testing DOM manipulation scripts.
